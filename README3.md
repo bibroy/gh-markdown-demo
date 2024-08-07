@@ -17,4 +17,8 @@ LINKS
 
 IMAGE LINKS
 
-[wwwww](https://octodex.github.com/images/dojocat.jpg)
+![Some Headshot](/assets/img/cartoon-male-headshot-circle.png)
+![Minion](https://octodex.github.com/images/minion.png)
+
+
+
