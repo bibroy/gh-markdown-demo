@@ -15,11 +15,5 @@ LINKS
 
 [Google](https://google.com)
 
-IMAGE LINKS
-
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Some Headshot](/assets/img/cartoon-male-headshot-circle.png)
-
 
 
