@@ -17,8 +17,9 @@ LINKS
 
 IMAGE LINKS
 
-![Some Headshot](/assets/img/cartoon-male-headshot-circle.png)
+
 ![Minion](https://octodex.github.com/images/minion.png)
+![Some Headshot](/assets/img/cartoon-male-headshot-circle.png)
 
 
 
